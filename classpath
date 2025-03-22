@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="c:/Users/NAVANIDHIRAM A/Downloads/DEF_PROJECT (6)/DEF_PROJECT/WebContent/WEB-INF/lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="c:/Users/NAVANIDHIRAM A/Downloads/DEF_PROJECT (6)/DEF_PROJECT/WebContent/WEB-INF/lib/mariadb-java-client-3.5.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
